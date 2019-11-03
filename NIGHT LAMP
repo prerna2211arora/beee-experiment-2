@@ -1,0 +1,6 @@
+Experiment 5 – Night Lamp
+Aim:
+To design an LED using Arduino such that when its dark the LED starts glowing and when its bright, the LED stops glowing.
+
+Apparatus:
+Arduino Board, LED, Resistance - 220ohm, Breadboard, Wires, LDR (Light Dependent Resistor).
